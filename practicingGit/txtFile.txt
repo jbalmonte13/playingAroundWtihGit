@@ -1,3 +1,5 @@
 hello, hehe this is practicing GIT 
 
 hello 
+
+battery life at 02:10:20 is at 84% for airpods and 1% with the case
