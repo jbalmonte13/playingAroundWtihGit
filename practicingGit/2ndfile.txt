@@ -2,6 +2,4 @@
 
 this is fun and exciting to practice on
 
-using git branch -m for renaming my branch
-
-trying to do a merge conflich here
+new additions for the practice file
