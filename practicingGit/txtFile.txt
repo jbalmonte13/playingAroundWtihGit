@@ -2,12 +2,6 @@ hello, hehe this is practicing GIT
 
 hello 
 
+adding new lines here
 
-battery life at 02:10:20 is at 84% for airpods and 1% with the case
-
-trying to add a new line to create a merge conflict here
-
-adding more line in order to make a merge conflict
-
-fixing the conflict
-
+adding 2nd line here
