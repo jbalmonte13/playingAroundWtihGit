@@ -3,3 +3,5 @@ hello, hehe this is practicing GIT
 hello 
 
 adding new lines here
+
+adding 2nd line here
